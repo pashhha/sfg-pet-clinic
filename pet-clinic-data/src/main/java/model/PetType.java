@@ -1,4 +1,4 @@
-package pasha.springframework.sfgpetclinic.model;
+package model;
 
 public class PetType {
 
