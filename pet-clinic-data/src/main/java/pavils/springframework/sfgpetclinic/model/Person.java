@@ -1,4 +1,4 @@
-package model;
+package pavils.springframework.sfgpetclinic.model;
 
 public class Person {
     private String firstName;

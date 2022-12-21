@@ -1,4 +1,4 @@
-package model;
+package pavils.springframework.sfgpetclinic.model;
 
 public class PetType {
 
