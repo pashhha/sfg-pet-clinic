@@ -1,4 +1,4 @@
-package pavils.sfgpetclinic.bootstrap;
+package pavils.springframework.sfgpetclinic.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
@@ -35,6 +35,7 @@ public class DataLoader implements CommandLineRunner {
 
         ownerServiceMap.save(owner2);
 
+        System.out.println("Owners loaded..");
 
         Vet vet1 = new Vet();
         vet1.setId(1L);
@@ -49,5 +50,8 @@ public class DataLoader implements CommandLineRunner {
         vet2.setLastName("Gates");
 
         vetServiceMap.save(vet2);
+
+        System.out.println("Vets loaded..");
+
     }
 }
