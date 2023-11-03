@@ -19,6 +19,7 @@
     </modules>
     <properties>
         <java.version>11</java.version>
+        <start-class>pavils.springframework.sfgpetclinic.SfgPetClinicApplicationClass</start-class>
     </properties>
     <dependencies>
 
