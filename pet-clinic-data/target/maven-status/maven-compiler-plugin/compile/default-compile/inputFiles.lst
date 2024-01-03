@@ -1,9 +1,12 @@
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/PetType.java
+/Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/PetTypeService.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/PetService.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/CrudService.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/map/AbstractMapService.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/Pet.java
+/Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/Visit.java
+/Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/Speciality.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/VetService.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/map/PetServiceMap.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/Person.java
@@ -12,3 +15,4 @@
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/Owner.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/OwnerService.java
 /Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/model/BaseEntity.java
+/Users/pashhha/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/pavils/springframework/sfgpetclinic/services/map/PetTypeMapService.java
